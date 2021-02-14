@@ -3,7 +3,9 @@
 #### Things I'm doing now
 * Studying (╥﹏╥)
 * Learning how to solve problems
-* Spending time with my family, friends and loved ones (´｡• ω •｡`) ♡
+* Making Projects
+* Watching anime(´｡• ω •｡`) ♡
+* Chillin
 
 <!--
 **anirbanpranto/anirbanpranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
