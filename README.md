@@ -4,8 +4,11 @@
 * Studying (╥﹏╥)
 * Learning how to solve problems
 * Making Projects
-* Watching anime(´｡• ω •｡`) ♡
-* Chillin
+* Watching anime
+
+#### What I do
+* Software Engineer @ Auronex
+* Student @ MMU
 
 <!--
 **anirbanpranto/anirbanpranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
