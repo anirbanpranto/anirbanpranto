@@ -1,14 +1,9 @@
 ### ٩(◕‿◕｡)۶(Henlouu)
 
-#### Things I'm doing now
-* Studying (╥﹏╥)
-* Learning how to solve problems
-* Making Projects
-* Watching anime
-
-#### What I do
-* Software Engineer @ Auronex
-* Student @ MMU
+#### Things I am interested in
+* Machine Learning/Deep Learning
+* Software Engineering
+* Math
 
 <!--
 **anirbanpranto/anirbanpranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
