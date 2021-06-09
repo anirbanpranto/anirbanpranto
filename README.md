@@ -4,6 +4,7 @@
 * Machine Learning/Deep Learning
 * Software Engineering
 * Math
+* Theoretical Computer Science
 
 <!--
 **anirbanpranto/anirbanpranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
