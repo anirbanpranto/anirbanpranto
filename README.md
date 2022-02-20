@@ -1,5 +1,13 @@
 ### ^(◕‿◕)^ Hewooooo
 
+#### My current personal projects
+* Bubble - A geolocation based chat application + utilities developed for the project.
+* Spaced - A spaced repetition based flash card app which helps you learn things effectively.
+
+#### My current professional work project
+* [Parcel Daily](https://parceldaily.com)
+
+
 #### Things I am interested in
 * Machine Learning/Deep Learning
 * Software Engineering
