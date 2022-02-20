@@ -1,5 +1,5 @@
 ### ^(◕‿◕)^ Hewooooo
-I'm currently a Computer Science and Data Science Undergrad student at Multimedia University, Cyberjaya Campus. I am interested in Distributed Systems, Natural Language Processing and Data Strctures/Algorithms.
+I'm currently a Computer Science and Data Science Undergrad student at Multimedia University, Cyberjaya Campus. I am interested in Distributed Systems, Natural Language Processing and Data Structures/Algorithms.
 
 #### My current personal projects
 * Bubble - A geolocation based chat application + utilities developed for the project.
