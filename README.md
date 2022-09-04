@@ -3,7 +3,8 @@ I'm currently a Computer Science and Data Science Undergrad student at Multimedi
 
 #### My current personal projects
 * Raytracer-CPU-Parallelization : A simple raytracer written in C++ which uses CPU parallelization for faster rendering
-* HUDI - An app that helps me function everyday
+* Lazy (Everything, Everywhere, All at Once) - An app that helps me function everyday
 
 #### Professional project
 * [Parcel Daily](https://parceldaily.com) [Backend Engineer]
+* [MetaMy] (https://metamy.com) [Backend Engineer]
