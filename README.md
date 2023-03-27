@@ -7,4 +7,3 @@ I'm currently a Computer Science and Data Science Undergrad student at Multimedi
 
 #### Professional project
 * [Parcel Daily](https://parceldaily.com) [Backend Engineer]
-* [MetaMy](https://metamy.me) [Backend Engineer]
