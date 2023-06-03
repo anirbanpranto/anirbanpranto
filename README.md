@@ -1,5 +1,5 @@
 ### About
-I'm currently a Computer Science and Data Science Undergrad student at Multimedia University, Cyberjaya Campus. I build whatever I like.
+I'm currently a Computer Science and Data Science Undergrad student at Multimedia University, Cyberjaya. I build whatever I like, or whatever I am required to build.
 
 #### My current personal projects
 * Flyte-DAG : A dag based workflow code generator for [Flyte](https://flyte.org).
