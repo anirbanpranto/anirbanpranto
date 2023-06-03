@@ -1,5 +1,5 @@
-### Welcome Stranger
-I'm currently a Computer Science and Data Science Undergrad student at Multimedia University, Cyberjaya Campus. I am interested in Distributed Systems, Natural Language Processing, Computer Vision and Computational Complexity Theory. (Also I like Compilers, Interpreters, OS .... list goes on)
+### About
+I'm currently a Computer Science and Data Science Undergrad student at Multimedia University, Cyberjaya Campus. I build whatever I like.
 
 #### My current personal projects
 * Flyte-DAG : A dag based workflow code generator for [Flyte](https://flyte.org).
