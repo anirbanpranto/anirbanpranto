@@ -6,4 +6,4 @@ I'm currently a Computer Science and Data Science Undergrad student at Multimedi
 * MonkeyLang Interpreter : An interpreter for [MonkeyLang](https://monkeylang.org/) as part of the [Degens Interpreter Competition](https://github.com/ThePrimeagen/ts-rust-zig-deez)
 
 #### Professional project
-* [Parcel Daily](https://parceldaily.com) [Backend Engineer] - Responsible for designing and implementing many of the fundamental systems, and scaling the systems to moon.
+* [Parcel Daily](https://parceldaily.com) [Backend Engineer] - Responsible for designing and implementing many of the foundational systems, and scaling the systems to the moon.
