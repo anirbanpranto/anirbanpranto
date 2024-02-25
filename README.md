@@ -5,5 +5,5 @@ I'm currently a Computer Science and Data Science Undergrad student at Multimedi
 * Tsunami : A tool to simulate variable network latency.
 * Lox Interpreter : An interpreter for [Lox Language](https://craftinginterpreters.com/) in C++.
 
-[![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirbanpranto&show_icons=true)](https://github.com/anirbanpranto/github-readme-stats)
+<!--[![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirbanpranto&show_icons=true)](https://github.com/anirbanpranto/github-readme-stats -->
 
