@@ -1,5 +1,5 @@
 ### About
-I graduated with a Data Science degree from [Multimedia University](https://en.wikipedia.org/wiki/Multimedia_University). Currently moving efforts in Machine Learning infrastructure and operations engineering at [Moneylion](https://www.moneylion.com/). Previously I interned at [Tapway](https://gotapway.com/) as an MLOps Engineer, built [ParcelDaily](https://www.parceldaily.com/) as their sole Backend Software Engineer, and did Machine Learning and Computer Vision research at [ViPr Lab](https://viprlab.github.io/). I like distributed systems, machine learning infrastructure and algorithms.
+I graduated with a Data Science degree from [Multimedia University](https://en.wikipedia.org/wiki/Multimedia_University). Currently working on Machine Learning infrastructure and operations engineering at [Moneylion](https://www.moneylion.com/). Previously I interned at [Tapway](https://gotapway.com/) as an MLOps Engineer, built [ParcelDaily](https://www.parceldaily.com/) as their sole Backend Software Engineer, and did Machine Learning and Computer Vision research at [ViPr Lab](https://viprlab.github.io/). I like distributed systems, machine learning infrastructure and algorithms.
 
 #### My current personal projects
 * Tsunami : A tool to simulate variable network latency. (Rust)
